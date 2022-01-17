@@ -155,31 +155,6 @@
             echo "abrar muthanna rakea ahmed ";
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
             // echo '1--  $readFile = fopen("data.txt", "r")
             // "<br>"
             // if ($readFile) {
